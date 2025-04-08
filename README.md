@@ -1,4 +1,4 @@
-# mbernier.com
+# jimomara.com
 My personal website
 
 ## Code Structure
